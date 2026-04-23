@@ -16,3 +16,4 @@ class TaskView(viewsets.ModelViewSet):
 
 def Gat():
     print('Хуй')
+    print('Пизда')
