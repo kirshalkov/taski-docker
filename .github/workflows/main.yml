@@ -127,5 +127,5 @@ jobs:
         with:
           context: ./frontend/
           push: true
-          tags: username/taski_frontend:latest
+          tags: kirill0051/taski_frontend:latest
         
