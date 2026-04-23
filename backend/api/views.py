@@ -18,3 +18,4 @@ def Gat():
     print('Хуй')
     print('Пизда')
     print('Я гей')
+    print('Я ебал')
